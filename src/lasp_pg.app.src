@@ -1,6 +1,6 @@
 {application,lasp_pg,
              [{description,"Process groups for Lasp"},
-              {vsn,"0.1.0"},
+              {vsn,"0.2.0"},
               {registered,[]},
               {applications,[kernel,stdlib,lasp,partisan]},
               {mod,{lasp_pg_app,[]}},
